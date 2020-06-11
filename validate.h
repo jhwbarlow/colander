@@ -1,0 +1,1 @@
+int isnumericstring(const char *str);
